@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "repository": "klx-small/saiji-preview",
+  "source_commit": "3fb0514a0de0f6547524c1d3be0026947ee031f8",
+  "created_at": "2026-11-21T03:33:17.9571624Z",
+  "files": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "sha256": "8c5406aa0abadc38584f04f59b240976338e091bc1b5b6f1b7ddd085b4f3aa7f"
+    },
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/api-CezSoC8c.js",
+      "sha256": "74ba4a34f912aa350411de95fa6fe9e56bc4f82e11262188b5ade382e1fe337b"
+    },
+    {
+      "path": "assets/index-BvIyUU1e.js",
+      "sha256": "f070b2f4290dafab73f753651d7739323451713b55222b45428f6f875e93577f"
+    },
+    {
+      "path": "assets/index-DE8kktwV.css",
+      "sha256": "40ad5e4b60b3bb2f1e0c7e831766a3e8613e706de64c0da4d54e6b3901b095eb"
+    },
+    {
+      "path": "assets/modules-DJ10W7HS.js",
+      "sha256": "cb57f310e08dfda64ff44579b337e42612c1e3fe203b56690e8cc80ab4f7554a"
+    },
+    {
+      "path": "brand/saiji-mark.svg",
+      "sha256": "33ffb602e20c04c554d5b1328d23705531e8d3239c18c78338719589a7317451"
+    },
+    {
+      "path": "brand/saiji-orb.png",
+      "sha256": "5261b5e163489ee2c2b90cb700aae7bfd73b833536d2d46831211fbe111acdd8"
+    },
+    {
+      "path": "favicon.svg",
+      "sha256": "54ff5a096f89d112ef85cf45d671b5f2ff524e34397b72e9e034af34d1b01a7c"
+    },
+    {
+      "path": "fonts/MANROPE-OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "path": "fonts/manrope-variable.ttf",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "path": "fonts/saiji-display.ttf",
+      "sha256": "6cc9c2cd1633b29438f2be605df74735c36541bd46f3523367055673a6bddef7"
+    },
+    {
+      "path": "index.html",
+      "sha256": "56aa2c59a800f19c029da67e7de5c0589a40835390771fdd756037cbab58298e"
+    },
+    {
+      "path": "README.md",
+      "sha256": "c94e1883fd18060bab7eb9426bb2e44d10e33cbb6bdbfdff5f4e68f4afcac2ba"
+    }
+  ]
+}
